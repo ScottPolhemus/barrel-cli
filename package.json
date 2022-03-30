@@ -13,7 +13,7 @@
     "publish": "npm publish --access public"
   },
   "dependencies": {
-    "@shopify/themekit": "^0.6.12",
+    "@shopify/themekit": "^1.1.9",
     "browser-sync": "^2.24.6",
     "chokidar": "^2.1.5",
     "colors": "^1.3.1",
